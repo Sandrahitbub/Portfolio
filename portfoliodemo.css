@@ -1,0 +1,28 @@
+h1,h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: rgb(35, 33, 97);
+    background-color: antiquewhite;
+}
+h3{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.image{
+    display: block;          /* makes margin:auto work */
+    margin: 20px auto;       /* centers horizontally */
+    border-radius: 50%;      /* makes it circular */
+    object-fit: cover; 
+
+
+}
+    
+p{
+    font-style: italic;
+    font-size: larger;
+}
+*{
+    background-color: peachpuff;
+}
+#submit{
+    background-color:rgb(127, 181, 181);
+}
